@@ -1,4 +1,4 @@
-# RNA_seq_portfolio_project
+# RNA Seq Portfolio Project
 Portfolio project for the processing and analysis of raw FASTQ files from E-MTAB-11605 (Genomewide expression profiling of multibacillary leprosy lesions before and after multi-drug therapy). Here I provide bash scripts for use on Linux HPC to filter and align the raw RNA seq data before analysing the cleaned data in R and applying machine learning classification approaches to the data using Python.
 
 ## What data  is there?
