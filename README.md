@@ -17,7 +17,7 @@ Portfolio project for the processing and analysis of raw FASTQ files from E-MTAB
 ![rnaseq_workflow](https://user-images.githubusercontent.com/59836053/188562342-930d3864-1345-439f-b895-8443a6ce268e.jpg)
 
 ### Processing the Raw Seq Data using Bash Scripts
-A breakdown of the bash scripts used for the alignment section of this project can be found in this [README file]().
+A breakdown of the bash scripts used for the alignment section of this project can be found in this [markdown file](bash_scripts.md).
 
 ### Differential Gene Expression and Pathway Analysis using R
 
