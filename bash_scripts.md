@@ -1,4 +1,12 @@
 # Bash Scripts for the processing of raw RNA Seq files
+## Outline:
+1. Download files
+2. Quality Analysis - FastQC
+3. Base Quality Filtering - Trim Galore!
+4. Ribosomal Sequence Filtering - SortMeRNA
+5. Genome Alignment - STAR-aligner
+6. Count Mapped Reads - featureCounts
+7. Cleaning Analysis Report - multiQC (optional)
 
 ## 1. Download files
 For the E-MTAB-11605 entry there was a json available containing the FTP links to each of the raw RNA Seq files saved as `*.fastq.gz`.
