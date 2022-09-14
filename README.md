@@ -10,7 +10,7 @@ Portfolio project for the processing and analysis of raw FASTQ files from E-MTAB
   
 ## What research questions:
 1. Is there any differentially expressed genes or pathways between the responders and non responders?
-2. Is there any differentially expressed genes or pathways between before treatement and after treatment?
+2. Is there any differentially expressed genes or pathways between before treatement and after treatment for those that respond?
 3. Given 1. or 2. Can a ML classifier be created?
 
 ## RNA seq Workflow
