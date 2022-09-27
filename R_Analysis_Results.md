@@ -22,3 +22,7 @@ low counts [2]     : 17441, 42%
 (mean count < 1)
 ```
 ## 2. Principal Component Analysis
+![not squished axis](https://user-images.githubusercontent.com/59836053/192361616-af92cdbc-7032-456b-92b3-4bf54d752aa2.png)
+
+
+
